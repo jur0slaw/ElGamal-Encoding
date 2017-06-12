@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485495390 source:c:\users\administrator\documents\programy\krypto 7\krypto 7\main.cpp
+	<iostream>
+	<cmath>
+	<string.h>
+
